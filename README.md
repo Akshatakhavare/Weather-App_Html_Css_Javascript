@@ -37,4 +37,12 @@ A simple, responsive **Weather App** built using **HTML**, **CSS**, and **JavaSc
 - **OpenWeatherMap API**
 
 ---
+##  Project Structure
+weather-app/
+├── Weather.html
+├── Weather.css
+├── Weather.js
+├── Output_No_1.png
+├── Output_No_2.png
+├── README.md
 
